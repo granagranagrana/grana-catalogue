@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Payload
+grana.db
+grana.db-shm
+grana.db-wal
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Uploads
+public/uploads/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Payload generated types (rebuilt au build)
+src/payload-types.ts

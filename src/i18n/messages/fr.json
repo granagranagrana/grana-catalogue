@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "catalogue": "La gamme",
+    "approach": "Notre approche",
+    "quote": "Demander un devis",
+    "back": "Retour",
+    "atlas": "Atlas"
+  },
+  "atlas": {
+    "overline": "Nuancier 2026 · 6 poivres",
+    "h1line1": "Sur le 10\u1d49 parallèle,",
+    "h1accent": "deux terroirs.",
+    "lede": "De la Cordillère costaricienne aux Gh\u00e2ts du Kerala\u00a0: six poivres d\u2019exception, tous cultivés en agroforesterie le long de la même bande tropicale.",
+    "originsHeading": "Origines",
+    "manifestoOverline": "Notre approche",
+    "manifestoByline": "GRANA · Manifeste",
+    "seeAll": "Voir les 6 fiches \u2192",
+    "farms": "ferme | fermes",
+    "varieties": "poivre | poivres"
+  },
+  "list": {
+    "title": "La gamme",
+    "sub": "6 poivres · récolte 2026 · prix HT",
+    "filterAll": "Tous",
+    "peppersCount": "{count} poivre | {count} poivres"
+  },
+  "pepper": {
+    "backBar": "Retour",
+    "youAreHere": "Vous êtes ici",
+    "aromaticHeading": "Aromatique",
+    "producerHeading": "Producteur",
+    "seeProducer": "Voir la fiche producteur \u2192",
+    "requestQuote": "Demander un devis",
+    "downloadSheet": "Télécharger la fiche",
+    "priceHelper": "HT · franco > 500 €"
+  },
+  "producer": {
+    "backBar": "Retour",
+    "statsAltitude": "Altitude",
+    "statsSurface": "Surface",
+    "statsPeppers": "Poivres",
+    "sectionProducer": "Le producteur",
+    "sectionPractices": "Pratiques agricoles",
+    "sectionEcology": "Écologie & terroir",
+    "relatedHeading": "Poivres de ce producteur"
+  },
+  "quote": {
+    "title": "Demander un devis",
+    "fieldName": "Nom",
+    "fieldRestaurant": "Restaurant / établissement",
+    "fieldEmail": "Email",
+    "fieldPhone": "Téléphone",
+    "fieldVolume": "Volume mensuel estimé",
+    "fieldMessage": "Message (optionnel)",
+    "submit": "Envoyer la demande",
+    "sending": "Envoi en cours…",
+    "successTitle": "Demande envoyée",
+    "successBody": "Nous reviendrons vers vous sous 48 h.",
+    "errorBody": "Une erreur est survenue. Réessayez ou écrivez-nous directement.",
+    "pepper": "Poivre",
+    "qty": "Conditionnement"
+  },
+  "common": {
+    "per100g": "/100g",
+    "priceExclVAT": "€ HT"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "catalogue": "The range",
+    "approach": "Our approach",
+    "quote": "Request a quote",
+    "back": "Back",
+    "atlas": "Atlas"
+  },
+  "atlas": {
+    "overline": "Selection 2026 · 6 peppers",
+    "h1line1": "On the 10th parallel,",
+    "h1accent": "two terroirs.",
+    "lede": "From the Costa Rican Cordillera to the Kerala Ghats: six exceptional peppers, all grown in agroforestry along the same tropical belt.",
+    "originsHeading": "Origins",
+    "manifestoOverline": "Our approach",
+    "manifestoByline": "GRANA · Manifesto",
+    "seeAll": "See all 6 peppers \u2192",
+    "farms": "farm | farms",
+    "varieties": "pepper | peppers"
+  },
+  "list": {
+    "title": "The range",
+    "sub": "6 peppers · 2026 harvest · excl. VAT",
+    "filterAll": "All",
+    "peppersCount": "{count} pepper | {count} peppers"
+  },
+  "pepper": {
+    "backBar": "Back",
+    "youAreHere": "You are here",
+    "aromaticHeading": "Aromatic",
+    "producerHeading": "Producer",
+    "seeProducer": "See producer profile \u2192",
+    "requestQuote": "Request a quote",
+    "downloadSheet": "Download data sheet",
+    "priceHelper": "excl. VAT · franco > 500 €"
+  },
+  "producer": {
+    "backBar": "Back",
+    "statsAltitude": "Altitude",
+    "statsSurface": "Area",
+    "statsPeppers": "Peppers",
+    "sectionProducer": "The producer",
+    "sectionPractices": "Agricultural practices",
+    "sectionEcology": "Ecology & terroir",
+    "relatedHeading": "Peppers from this producer"
+  },
+  "quote": {
+    "title": "Request a quote",
+    "fieldName": "Name",
+    "fieldRestaurant": "Restaurant / establishment",
+    "fieldEmail": "Email",
+    "fieldPhone": "Phone",
+    "fieldVolume": "Estimated monthly volume",
+    "fieldMessage": "Message (optional)",
+    "submit": "Send request",
+    "sending": "Sending…",
+    "successTitle": "Request sent",
+    "successBody": "We will get back to you within 48 hours.",
+    "errorBody": "An error occurred. Please try again or email us directly.",
+    "pepper": "Pepper",
+    "qty": "Pack size"
+  },
+  "common": {
+    "per100g": "/100g",
+    "priceExclVAT": "€ excl. VAT"
+  }
+}
