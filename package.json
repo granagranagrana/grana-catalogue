@@ -22,7 +22,7 @@
     "@payloadcms/ui": "^3.0.0",
     "@phosphor-icons/react": "^2.1.7",
     "cross-env": "^7.0.3",
-    "next": "15.3.2",
+    "next": "15.3.9",
     "next-intl": "^3.24.0",
     "payload": "^3.0.0",
     "react": "19.1.0",
